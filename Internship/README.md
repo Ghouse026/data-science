@@ -5,13 +5,12 @@ The goal was to analyze traffic patterns and how they affect Uber’s dynamic pr
 
 Files Included:
 - Python notebooks for data cleaning, feature engineering, and modeling
-- Dataset used for the project
+- Dataset used for the project (All those files in that google drive link)
 - Final PDF report
 
 Tools Used:
 - Python (Jupyter Notebook)
 - Pandas, NumPy, Matplotlib, Seaborn
-- Scikit-learn, Keras
-- Excel
+- Advanced Excel
 
 
